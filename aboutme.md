@@ -14,5 +14,6 @@ What else do you need to know about me? Hobbies?
 4. Badminton and Swimming
 
 
-#### Contact Me
+
+**Contact Me**
 Email, GitHub and LinkedIn Links are given below.
