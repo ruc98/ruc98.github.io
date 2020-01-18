@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: The Best Way to Predict Future is to Invent it.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Senior Undergrad student pursuing a Bachelors+Masters Dual Degree Program at IIT Madras, India. My Bachelors major is in Aerospace Engineering and Masters major is in Data Science.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My broad research interest lies in the fields of Deep Learning and Computer Vision. To be more specific, in the domain of 3D Point Clouds and 3D Deep Learning. The Point Cloud obtained from the LiDAR sensor is one of the most crucial component of self-driven cars to achieve Level 4 & Level 5 autonomy.
 
-What else do you need?
 
-### my history
+What else do you need to know about me? Hobbies?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+1. Badminton
+2. Tabla (Indian Classical Percusion Instrument)
+3. Guitar
+4. Weekend Treks and Travelling
