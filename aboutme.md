@@ -12,3 +12,7 @@ What else do you need to know about me? Hobbies?
 2. Guitar
 3. Weekend Treks and Travelling
 4. Badminton and Swimming
+
+
+#### Contact Me
+Email, GitHub and LinkedIn Links are given below.
