@@ -1,3 +1,11 @@
+
+---
+layout: page
+title: Projects
+subtitle: Procastination is the Thief of Time. Never Procastinate.
+---
+
+
 American Express Ignite 2019 (Competition hosted by AmEx)
 ​ (Sept-Dec 2019)  
 ● Project Title: “ ​ Cricket Physics and Analytics” (​ mentored by ​ Madhan RA, Director, American Express​ )   
