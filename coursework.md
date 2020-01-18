@@ -7,9 +7,9 @@ subtitle: Some of the phenomenal courses that I credited at IIT Madras.
 
 Deep Learning (Class Topper, S grade) 
 
-Pattern Recognition and Machine Learning 
-
 Mathematical Foundations of Data Science (S grade) 
+
+Pattern Recognition and Machine Learning
 
 Digital Video Processing 
 
@@ -20,3 +20,5 @@ Creative Engineering Project (undergrad research)
 Process Optimisation 
 
 Data Structures and Algorithms
+
+Guidance for Autonomous Vehicles (Class Topper, S grade)
