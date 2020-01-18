@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: The Best Way to Predict Future is to Invent it.
+show-avatar: true
 ---
 
 
