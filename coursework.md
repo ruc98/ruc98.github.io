@@ -5,9 +5,9 @@ subtitle: Some of the phenomenal courses that I credited at IIT Madras.
 ---
 
 
-Deep Learning (Class Topper, S grade) 
+Deep Learning (Class Topper)
 
-Mathematical Foundations of Data Science (S grade) 
+Mathematical Foundations of Data Science 
 
 Pattern Recognition and Machine Learning
 
@@ -21,4 +21,4 @@ Process Optimisation
 
 Data Structures and Algorithms
 
-Guidance for Autonomous Vehicles (Class Topper, S grade)
+Guidance for Autonomous Vehicles (Class Topper)
