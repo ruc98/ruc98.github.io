@@ -7,7 +7,7 @@ subtitle: Some of the phenomenal courses that I credited at IIT Madras.
 
 Deep Learning (Class Topper)
 
-Mathematical Foundations of Data Science 
+Mathematical Foundations of Data Science (Class Topper) 
 
 Pattern Recognition and Machine Learning
 
