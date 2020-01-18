@@ -23,7 +23,7 @@ Regressors.
 - Project Title: “ ​ Cricket Physics and Analytics” (​ mentored by ​ Madhan RA, Director, American Express​ )   
 - To predict the Win Probability of a Match in between the Match given the Ball-by-Ball Statistics. 
 - Building Confidence Interval for Win Probability on the top of the LSTM Model. 
-
+[**[Report]**](https://drive.google.com/open?id=19g7S-P7vYViG85cPZPhGIQDMKCED6JJS)[**[Code]**](https://github.com/ruc98/American_Express_Ignite_2019_Challenge)
 
 ### IPL Twitter Missing Data (Term Project) 
 - Missing Data Imputation for different IPL seasons Datasets. 
