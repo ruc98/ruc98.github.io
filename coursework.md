@@ -9,6 +9,8 @@ Deep Learning (Class Topper)
 
 Mathematical Foundations of Data Science (Class Topper) 
 
+Guidance for Autonomous Vehicles (Class Topper)
+
 Pattern Recognition and Machine Learning
 
 Digital Video Processing 
@@ -20,5 +22,3 @@ Creative Engineering Project (undergrad research)
 Process Optimisation 
 
 Data Structures and Algorithms
-
-Guidance for Autonomous Vehicles (Class Topper)
