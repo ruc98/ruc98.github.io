@@ -20,11 +20,9 @@ description: A brief about my projects, work experience and hobbies
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Projects:
-    - Project1: "project1"
-    - Project2: "project2"
+  Projects: "projects"
   Work Experience: "workexperience"
+  Coursework: "coursework"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -51,9 +49,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+navbar-img: "/img/navbar1.png"
+footer-img: "/img/footer1.png"
+page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
