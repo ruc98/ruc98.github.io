@@ -5,14 +5,6 @@ subtitle: Competition Projects, Course Projects and Club Projects
 ---
 
 
-### American Express Ignite 2019 (Competition hosted by AmEx)
-
-- Project Title: “ ​ Cricket Physics and Analytics” (​ mentored by ​ Madhan RA, Director, American Express​ )   
-- To predict the Win Probability of a Match in between the Match given the Ball-by-Ball Statistics. 
-- Building Confidence Interval for Win Probability on the top of the LSTM Model. 
-[**[Report]**](https://drive.google.com/open?id=19g7S-P7vYViG85cPZPhGIQDMKCED6JJS)[**[Code]**](https://github.com/ruc98/American_Express_Ignite_2019_Challenge)
-
-
 ### Netflix Data Challenge (Kaggle Data Contest) 
 
 - Data Contest hosted on Kaggle to predict User based Movie Ratings using different Models and their Ensembles. 
@@ -25,6 +17,12 @@ Regressors.
 - Implemented “ActionVLAD” for Feature Aggregation which functions similar to Attention Mechanisms  
 - Bidirectional LSTM based RNN decoders with Word2Vec Embeddings evaluated on BLEU Score Metric. 
 [**[Report]**](https://drive.google.com/open?id=1QcMIkIxj7tjBWcKKjaOfKFwXYzYvI4QU)[**[Code]**](https://github.com/ruc98/Video_Captioning_using_ActionVLAD_and_Bidirectional_LSTMs)
+
+### American Express Ignite 2019 (Competition hosted by AmEx)
+
+- Project Title: “ ​ Cricket Physics and Analytics” (​ mentored by ​ Madhan RA, Director, American Express​ )   
+- To predict the Win Probability of a Match in between the Match given the Ball-by-Ball Statistics. 
+- Building Confidence Interval for Win Probability on the top of the LSTM Model. 
 
 
 ### IPL Twitter Missing Data (Term Project) 
