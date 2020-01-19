@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coursework
-subtitle: Some of the phenomenal courses that I credited at IIT Madras.
+subtitle: Some amazing courses that I credited at IIT Madras.
 ---
 
 
