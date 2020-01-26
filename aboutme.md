@@ -9,9 +9,10 @@ What else do you need to know about me? Hobbies?
 
 
 1. Tabla (Indian Classical Percusion Instrument)
-2. Guitar
-3. Weekend Treks and Travelling
-4. Badminton and Swimming
+2. Formula 1 Racing
+3. Guitar
+4. Weekend Treks and Travelling
+5. Badminton and Swimming
 
 
 
