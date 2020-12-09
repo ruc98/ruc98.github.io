@@ -20,8 +20,9 @@ description: A brief about my projects, work experience and hobbies
 
 # List of links in the navigation bar
 navbar-links:
-  Projects: "projects"
   Work Experience: "workex"
+  Publications: "publications"
+  Projects: "projects"
   Coursework: "coursework"
   About Me: "aboutme"
 
