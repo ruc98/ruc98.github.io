@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Projects
 subtitle: Competition Projects, Course Projects and Club Projects
@@ -51,3 +51,4 @@ Regressors.
 - Two wheeled robot which adaptively balances itself similar to a segway. 
 - Uses PID Controller and Inertial Sensors to control the motor. 
 [**[Presentation]**](https://drive.google.com/open?id=1J3YCmkEtjTdAsun0rTq42q-OC0quKCBg)[**[Code]**](https://github.com/ruc98/Self_Balancing_Bot)
+ -->
