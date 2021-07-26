@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Publications
 subtitle: Accepted / Submitted publications of my undergraduate research work.
@@ -22,3 +22,4 @@ Rahul Chakwate, Madhan RA
 
 In International Journal for Research in Applied Science and Engineering Technology, 8(11) 1-8, 2020.
 [**[Paper]**](https://www.ijraset.com/fileserve.php?FID=28203)[**[Code]**](https://github.com/ruc98/American_Express_Ignite_2019_Challenge)
+ -->
