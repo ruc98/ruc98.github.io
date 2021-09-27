@@ -10,7 +10,7 @@ subtitle: The Faculties, Labs and Industries that I worked with.
 - Collaborated with Apple Inc. to revolutionize its recycling robots, Daisy and Dave, using Machine Learning. The two key tasks included intraclass iPhone Classification & disassembly of end-of-life iPhones.
 - Designed a novel Multimodal Attentional CNN (iCAM) to classify iPhones from images & X-Ray scans, achieving 99.9% classification accuracy for 6 iPhone classes & improving by 14% over the state-of-the-art.
 - Equipped Image Registration methods (Superglue & Demons) to find component deformation to aid disassembly.
-[**[Link]**](https://www.ri.cmu.edu/cmu-ai-robotics-team-up-with-apple-to-improve-device-recycling/)
+[**[CMU webpage]**](https://www.ri.cmu.edu/cmu-ai-robotics-team-up-with-apple-to-improve-device-recycling/)
 
 ### Point Cloud Registration Project - Research Intern - Biorobotics Lab | [link] 	May 2020-Aug 2021
 - Designed a novel Correspondence based Loss Function for the 3D Registration task, achieving a decrease of 40% in Rotation Error over the state-of-the-art loss functions.
