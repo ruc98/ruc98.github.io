@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: About me
 show-avatar: true
@@ -18,4 +18,3 @@ show-avatar: true
 
 **Contact Me:**
 Email, GitHub and LinkedIn Links are given below.
- -->

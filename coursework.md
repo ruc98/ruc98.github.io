@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: Coursework
 subtitle: Some amazing courses that I credited at IIT Madras.
@@ -14,4 +14,3 @@ subtitle: Some amazing courses that I credited at IIT Madras.
 - Creative Engineering Project (undergrad research) 
 - Process Optimisation 
 - Data Structures and Algorithms
- -->

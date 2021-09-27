@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: Work / Research Experience
 subtitle: The Faculties, Labs and Industries that I worked with.
@@ -36,4 +36,3 @@ subtitle: The Faculties, Labs and Industries that I worked with.
 - Developed a Tensor Basis Neural Network model to predict the Reynolds Stress Tensor for Turbulent Flows.
 - Achieved a 2.8% RMSE between True & Predicted Values across Flows with different Reynolds Numbers.
 [**[Report]**](https://drive.google.com/drive/u/1/folders/154O2az2jIF7VCBCY0TGww45cir8eeiz7)
- -->
