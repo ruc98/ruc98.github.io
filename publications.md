@@ -4,6 +4,12 @@ title: Publications
 subtitle: Accepted / Submitted publications of my undergraduate research work.
 ---
 
+### RGB-X Classification for Electronics Sorting
+FNU Abhimanyu, Tejas Zodage, Umesh Thillaivasan, Xinyue Lai, Rahul Chakwate, Javier Santillan, Emma Oti, Ming Zhao, Ralph Boirum, Howie Choset, Matthew Travers
+
+In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022) 
+[**[Paper]**](https://arxiv.org/abs/2209.03509)[**[Article]**](https://www.ri.cmu.edu/cmu-ai-robotics-team-up-with-apple-to-improve-device-recycling/)
+
 
 ### Correspondence Matrices are Underrated  
 Tejas Zodage, Rahul Chakwate, Vinit Sarode, Arun Srivatsan, Howie Choset
