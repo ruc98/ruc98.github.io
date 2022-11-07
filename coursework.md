@@ -1,16 +1,18 @@
 ---
 layout: page
 title: Coursework
-subtitle: Some amazing courses that I credited at IIT Madras.
+subtitle: Some amazing courses that I credited at University of Wisconsin-Madison and IIT Madras, India.
 ---
 
-
-- Deep Learning (Class Topper)
-- Mathematical Foundations of Data Science (Class Topper) 
-- Guidance for Autonomous Vehicles (Class Topper)
+- Big Data Systems
+- Machine Learning
+- Database Management Systems
+- Deep Learning
+- Mathematical Foundations of Data Science
+- Guidance for Autonomous Vehicles
 - Pattern Recognition and Machine Learning
 - Digital Video Processing 
 - Probability, Statistics and Stochastic Process 
-- Creative Engineering Project (undergrad research) 
-- Process Optimisation 
+- Creative Engineering Project (Undergraduate Research)
+- Process Optimisation
 - Data Structures and Algorithms
