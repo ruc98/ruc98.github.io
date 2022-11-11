@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coursework
-subtitle: Some amazing courses that I credited at University of Wisconsin-Madison and IIT Madras, India.
+subtitle: Some amazing courses that I credited at the University of Wisconsin-Madison and IIT Madras, India.
 ---
 
 - Big Data Systems
