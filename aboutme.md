@@ -4,7 +4,6 @@ title: About me
 show-avatar: true
 ---
 
-(to be updated)
 **Hobbies:**
 
 1. Completed Visharad Pratham (6 out of 7 Levels) of the Indian Classical Musical Instrument Tabla. [**Certificate**](https://drive.google.com/file/d/1kdRgeRQcVqxDehfdkzgHCF91KasR8bv3/view?usp=sharing)
