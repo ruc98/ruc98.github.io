@@ -4,6 +4,18 @@ title: Projects
 subtitle: Competition Projects, Course Projects and Club Projects
 ---
 
+### Distributed Data Parallel ML Training | Big Data Systems Course Assignment
+- Deployed, compared and contrasted different Distributed ML Training frameworks such as gather-and-scatter,
+allReduce and Pytorch DDP (Distributed Data Parallel) on a multi-node cluster setting.
+- Achieved 1.4 - 2.8 times speedup over a single machine using above techniques for gradient synchronization.
+[**[Github]**](https://github.com/ruc98/Distributed-Data-Parallel-ML-Training)
+  
+  
+### BadgerDB | Database Management Systems Course Assignment
+- Implemented Buffer Pool Management in BadgerDB using Clock Algorithm and Buffer Hash Table.
+- Developed a B+ Tree Index Manager in BadgerDB to improve query searches and range scans.
+[**[Github]**](https://github.com/ruc98/cs564-BadgerDB)
+
 ### Cloud Based Real-Time Big Data Analysis | Big Data Lab Project
 - Implemented DataProc Cluster based Spark Job Computation for Data Processing & Model Training.
 - Computed Real-Time Predictions on Test Data by Spark-Streaming the Data to Apache Kafka Cluster.
