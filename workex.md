@@ -3,6 +3,10 @@ layout: page
 title: Work & Research Experience
 
 ---
+## Epic Systems - Verona, WI
+
+### Software Developer - MyChart
+
 
 ## Apple Inc. - Cupertino, CA
 
